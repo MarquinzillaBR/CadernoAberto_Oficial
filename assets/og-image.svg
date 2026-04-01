@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Caderno Aberto">
+  <rect width="1200" height="630" fill="#f5f5f2"/>
+  <rect x="70" y="70" width="1060" height="490" rx="28" fill="#fbfbf8" stroke="rgba(23,23,23,0.12)"/>
+  <text x="110" y="180" fill="#6b6b6b" font-family="Manrope, Arial, sans-serif" font-size="24" letter-spacing="7">ARQUIVO PESSOAL</text>
+  <text x="110" y="290" fill="#171717" font-family="'Cormorant Garamond', Georgia, serif" font-size="104">Caderno Aberto</text>
+  <text x="110" y="370" fill="#5d5d5d" font-family="Manrope, Arial, sans-serif" font-size="34">Textos e notas sobre memória, sentimentos</text>
+  <text x="110" y="418" fill="#5d5d5d" font-family="Manrope, Arial, sans-serif" font-size="34">e fases da vida.</text>
+  <rect x="110" y="470" width="160" height="2" fill="#171717"/>
+  <text x="110" y="520" fill="#7b7b7b" font-family="Manrope, Arial, sans-serif" font-size="24">cadernoaberto</text>
+</svg>

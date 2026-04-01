@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Caderno Aberto">
+  <rect width="64" height="64" rx="16" fill="#171717"/>
+  <rect x="16" y="12" width="30" height="40" rx="6" fill="#f5f5f2"/>
+  <path d="M24 21h14M24 29h14M24 37h10" stroke="#171717" stroke-width="3" stroke-linecap="round"/>
+  <path d="M46 17c5 4 7 9 7 15s-2 11-7 15" fill="none" stroke="#f5f5f2" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
